@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **aliriza_celebi@hotmail.com**
+- 📫 How to reach me **1alirizacelebii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
