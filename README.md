@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://alicelebi-blog.vercel.app/](https://alicelebi-blog.vercel.app/)
 
-- 💬 Ask me about **React** **Vue**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **1alirizacelebii@gmail.com**
 
