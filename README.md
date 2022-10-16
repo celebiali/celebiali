@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://aliriza-celebi.web.app/](https://aliriza-celebi.web.app/)
 
