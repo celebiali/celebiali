@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **Vue**,**React**
 
-- 👨‍💻 All of my projects are available at [https://aliriza-celebi.web.app/](https://aliriza-celebi.web.app/)
-
-- 📝 I regularly write articles on [https://alicelebi-blog.vercel.app/](https://alicelebi-blog.vercel.app/)
-
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **1alirizacelebii@gmail.com**
