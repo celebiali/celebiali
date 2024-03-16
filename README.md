@@ -24,9 +24,9 @@ Ant Design, Material-UI, Bootstrap, TailwindCSS,  /
 
 ### 📊 GitHub Analytics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ercumentlacin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
-![Stats](https://github-readme-stats.vercel.app/api?username=ercumentlacin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ercumentlacin&theme=algolia)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=celebiLİ&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=celebiali&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=celebiali&theme=algolia)
 
 ---
 
