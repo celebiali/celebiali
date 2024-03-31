@@ -16,7 +16,7 @@ MongoDB /
 
 Git, Github, Gitlab /
 
-Ant Design, Material-UI, Bootstrap, TailwindCSS,  /
+Ant Design, Material-UI, Bootstrap, TailwindCSS /
 
 ## Contact me
 
