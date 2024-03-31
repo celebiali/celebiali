@@ -20,7 +20,7 @@ Ant Design, Material-UI, Bootstrap, TailwindCSS /
 
 ## Contact me
 
-- 📫 How to reach me **ali1999_@hotmail.com**
+- 📫 How to reach me **1alirizacelebii@gmail.com**
 
 ### 📊 GitHub Analytics
 
